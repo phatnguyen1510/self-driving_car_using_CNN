@@ -52,17 +52,13 @@ Udacity self driving car simulator is used testing and training our model.
 ```structure
 ├── environments.yml
 ├── model
-│   └── model.h5
 ├── notebook
-│   └── self_driving_car.ipynb
 ├── term1-simulator-linux
 │   └── beta_simulator_Data
 │   └── beta_simulator.x86
 │   └── beta_simulator.x86_64
 ├── README.md
 ├── tools
-│   ├── run.py
-│   └── utils.py
 ```
 
 These source directories are as follows:
